@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101264920092",
+    "project_id": "flowxpert-80cf6",
+    "storage_bucket": "flowxpert-80cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101264920092:android:2c05a7733413be889d19d9",
+        "android_client_info": {
+          "package_name": "com.example.login_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYF9dLbrjzipu3GeGryUTo6RIW9vp8BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
