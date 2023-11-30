@@ -27,3 +27,5 @@ class MyApp extends StatelessWidget {
         home: splashScreen());
   }
 }
+
+//main-added
